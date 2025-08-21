@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "shuangban-order-app",
+  "description": "朱双半一家子的点菜app",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
